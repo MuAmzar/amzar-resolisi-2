@@ -2,3 +2,4 @@ Rencana kedepan
 -membuat project 
 -belajar python
 -belajar unity
+-belajar bikin game
