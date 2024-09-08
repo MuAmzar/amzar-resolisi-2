@@ -1,6 +1,7 @@
 Rencana kedepan
 -membuat project 
   membuat frond end 
+  beajr back end
 -belajar python
 -belajar unity
 -belajar bikin game
