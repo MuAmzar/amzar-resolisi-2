@@ -1,5 +1,7 @@
 Rencana kedepan
 -membuat project 
+  tilewind
+  belajr backend
 -belajar python
 -belajar unity
--belajar bikin game
+ 
