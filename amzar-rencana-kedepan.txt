@@ -1,5 +1,8 @@
 Rencana kedepan
 -membuat project 
+  membuat frond end 
 -belajar python
 -belajar unity
 -belajar bikin game
+  menggunakan unreal
+-belajar makan
